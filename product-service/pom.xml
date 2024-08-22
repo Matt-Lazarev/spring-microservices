@@ -7,7 +7,7 @@
     <parent>
         <groupId>com.lazarev</groupId>
         <artifactId>spring-microservices-lesson</artifactId>
-        <version>0.0.1-SNAPSHOT</version>
+        <version>1.0</version>
     </parent>
 
     <artifactId>product-service</artifactId>
